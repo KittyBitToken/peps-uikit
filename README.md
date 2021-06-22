@@ -1,8 +1,8 @@
-# PEPSwap Pepper Finance UIkit
+# KittyBit Finance UIkit
 
 [![Version](https://img.shields.io/npm/v/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@pancakeswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@pancakeswap-libs/uikit)
 
-Pepper Finance UIkit is a set of React components and hooks used to build pages on Pepper Finance's apps. It also contains a theme file for dark and light mode.
+KittyBit Finance UIkit is a set of React components and hooks used to build pages on Pepper Finance's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
