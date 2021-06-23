@@ -2144,19 +2144,14 @@ var socials = [
         items: [
       {
         label: "English",
-        href: "http://telegram.peps.today",
+        href: "https://t.me/KittyBitToken",
       },
-      {
-        label: "Announcements",
-        href: "https://t.me/ProjectPEPS",
-      },
-      
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/projectpeps",
+        href: "https://twitter.com/KittyBitToken",
     },
 ];
 var MENU_HEIGHT = 64;
